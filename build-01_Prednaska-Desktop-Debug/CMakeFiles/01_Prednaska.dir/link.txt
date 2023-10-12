@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/01_Prednaska.dir/main.c.o CMakeFiles/01_Prednaska.dir/01.c.o CMakeFiles/01_Prednaska.dir/02.c.o CMakeFiles/01_Prednaska.dir/Zadanie_01.c.o -o 01_Prednaska 
