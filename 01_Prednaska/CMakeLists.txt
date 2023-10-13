@@ -6,6 +6,12 @@ add_executable(01_Prednaska main.c
     01.c
     02.c
     Zadanie_01.c
+    Zadanie_02.c
+    Zadanie_03.c
+    Zadanie_04.c
+    Zadanie_05.c
+
+
 
 )
 

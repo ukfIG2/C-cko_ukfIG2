@@ -246,6 +246,102 @@ Zadanie_01.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_01.c.s
 .PHONY : Zadanie_01.c.s
 
+Zadanie_02.o: Zadanie_02.c.o
+.PHONY : Zadanie_02.o
+
+# target to build an object file
+Zadanie_02.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_02.c.o
+.PHONY : Zadanie_02.c.o
+
+Zadanie_02.i: Zadanie_02.c.i
+.PHONY : Zadanie_02.i
+
+# target to preprocess a source file
+Zadanie_02.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_02.c.i
+.PHONY : Zadanie_02.c.i
+
+Zadanie_02.s: Zadanie_02.c.s
+.PHONY : Zadanie_02.s
+
+# target to generate assembly for a file
+Zadanie_02.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_02.c.s
+.PHONY : Zadanie_02.c.s
+
+Zadanie_03.o: Zadanie_03.c.o
+.PHONY : Zadanie_03.o
+
+# target to build an object file
+Zadanie_03.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_03.c.o
+.PHONY : Zadanie_03.c.o
+
+Zadanie_03.i: Zadanie_03.c.i
+.PHONY : Zadanie_03.i
+
+# target to preprocess a source file
+Zadanie_03.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_03.c.i
+.PHONY : Zadanie_03.c.i
+
+Zadanie_03.s: Zadanie_03.c.s
+.PHONY : Zadanie_03.s
+
+# target to generate assembly for a file
+Zadanie_03.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_03.c.s
+.PHONY : Zadanie_03.c.s
+
+Zadanie_04.o: Zadanie_04.c.o
+.PHONY : Zadanie_04.o
+
+# target to build an object file
+Zadanie_04.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_04.c.o
+.PHONY : Zadanie_04.c.o
+
+Zadanie_04.i: Zadanie_04.c.i
+.PHONY : Zadanie_04.i
+
+# target to preprocess a source file
+Zadanie_04.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_04.c.i
+.PHONY : Zadanie_04.c.i
+
+Zadanie_04.s: Zadanie_04.c.s
+.PHONY : Zadanie_04.s
+
+# target to generate assembly for a file
+Zadanie_04.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_04.c.s
+.PHONY : Zadanie_04.c.s
+
+Zadanie_05.o: Zadanie_05.c.o
+.PHONY : Zadanie_05.o
+
+# target to build an object file
+Zadanie_05.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_05.c.o
+.PHONY : Zadanie_05.c.o
+
+Zadanie_05.i: Zadanie_05.c.i
+.PHONY : Zadanie_05.i
+
+# target to preprocess a source file
+Zadanie_05.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_05.c.i
+.PHONY : Zadanie_05.c.i
+
+Zadanie_05.s: Zadanie_05.c.s
+.PHONY : Zadanie_05.s
+
+# target to generate assembly for a file
+Zadanie_05.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Zadanie_05.c.s
+.PHONY : Zadanie_05.c.s
+
 main.o: main.c.o
 .PHONY : main.o
 
@@ -292,6 +388,18 @@ help:
 	@echo "... Zadanie_01.o"
 	@echo "... Zadanie_01.i"
 	@echo "... Zadanie_01.s"
+	@echo "... Zadanie_02.o"
+	@echo "... Zadanie_02.i"
+	@echo "... Zadanie_02.s"
+	@echo "... Zadanie_03.o"
+	@echo "... Zadanie_03.i"
+	@echo "... Zadanie_03.s"
+	@echo "... Zadanie_04.o"
+	@echo "... Zadanie_04.i"
+	@echo "... Zadanie_04.s"
+	@echo "... Zadanie_05.o"
+	@echo "... Zadanie_05.i"
+	@echo "... Zadanie_05.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

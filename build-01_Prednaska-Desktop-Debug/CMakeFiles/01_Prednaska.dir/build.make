@@ -125,12 +125,72 @@ CMakeFiles/01_Prednaska.dir/Zadanie_01.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/01_Prednaska.dir/Zadanie_01.c.s"
 	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_01.c -o CMakeFiles/01_Prednaska.dir/Zadanie_01.c.s
 
+CMakeFiles/01_Prednaska.dir/Zadanie_02.c.o: CMakeFiles/01_Prednaska.dir/flags.make
+CMakeFiles/01_Prednaska.dir/Zadanie_02.c.o: /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_02.c
+CMakeFiles/01_Prednaska.dir/Zadanie_02.c.o: CMakeFiles/01_Prednaska.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-01_Prednaska-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/01_Prednaska.dir/Zadanie_02.c.o"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/01_Prednaska.dir/Zadanie_02.c.o -MF CMakeFiles/01_Prednaska.dir/Zadanie_02.c.o.d -o CMakeFiles/01_Prednaska.dir/Zadanie_02.c.o -c /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_02.c
+
+CMakeFiles/01_Prednaska.dir/Zadanie_02.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/01_Prednaska.dir/Zadanie_02.c.i"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_02.c > CMakeFiles/01_Prednaska.dir/Zadanie_02.c.i
+
+CMakeFiles/01_Prednaska.dir/Zadanie_02.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/01_Prednaska.dir/Zadanie_02.c.s"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_02.c -o CMakeFiles/01_Prednaska.dir/Zadanie_02.c.s
+
+CMakeFiles/01_Prednaska.dir/Zadanie_03.c.o: CMakeFiles/01_Prednaska.dir/flags.make
+CMakeFiles/01_Prednaska.dir/Zadanie_03.c.o: /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_03.c
+CMakeFiles/01_Prednaska.dir/Zadanie_03.c.o: CMakeFiles/01_Prednaska.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-01_Prednaska-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/01_Prednaska.dir/Zadanie_03.c.o"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/01_Prednaska.dir/Zadanie_03.c.o -MF CMakeFiles/01_Prednaska.dir/Zadanie_03.c.o.d -o CMakeFiles/01_Prednaska.dir/Zadanie_03.c.o -c /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_03.c
+
+CMakeFiles/01_Prednaska.dir/Zadanie_03.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/01_Prednaska.dir/Zadanie_03.c.i"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_03.c > CMakeFiles/01_Prednaska.dir/Zadanie_03.c.i
+
+CMakeFiles/01_Prednaska.dir/Zadanie_03.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/01_Prednaska.dir/Zadanie_03.c.s"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_03.c -o CMakeFiles/01_Prednaska.dir/Zadanie_03.c.s
+
+CMakeFiles/01_Prednaska.dir/Zadanie_04.c.o: CMakeFiles/01_Prednaska.dir/flags.make
+CMakeFiles/01_Prednaska.dir/Zadanie_04.c.o: /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_04.c
+CMakeFiles/01_Prednaska.dir/Zadanie_04.c.o: CMakeFiles/01_Prednaska.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-01_Prednaska-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/01_Prednaska.dir/Zadanie_04.c.o"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/01_Prednaska.dir/Zadanie_04.c.o -MF CMakeFiles/01_Prednaska.dir/Zadanie_04.c.o.d -o CMakeFiles/01_Prednaska.dir/Zadanie_04.c.o -c /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_04.c
+
+CMakeFiles/01_Prednaska.dir/Zadanie_04.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/01_Prednaska.dir/Zadanie_04.c.i"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_04.c > CMakeFiles/01_Prednaska.dir/Zadanie_04.c.i
+
+CMakeFiles/01_Prednaska.dir/Zadanie_04.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/01_Prednaska.dir/Zadanie_04.c.s"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_04.c -o CMakeFiles/01_Prednaska.dir/Zadanie_04.c.s
+
+CMakeFiles/01_Prednaska.dir/Zadanie_05.c.o: CMakeFiles/01_Prednaska.dir/flags.make
+CMakeFiles/01_Prednaska.dir/Zadanie_05.c.o: /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_05.c
+CMakeFiles/01_Prednaska.dir/Zadanie_05.c.o: CMakeFiles/01_Prednaska.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-01_Prednaska-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/01_Prednaska.dir/Zadanie_05.c.o"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/01_Prednaska.dir/Zadanie_05.c.o -MF CMakeFiles/01_Prednaska.dir/Zadanie_05.c.o.d -o CMakeFiles/01_Prednaska.dir/Zadanie_05.c.o -c /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_05.c
+
+CMakeFiles/01_Prednaska.dir/Zadanie_05.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/01_Prednaska.dir/Zadanie_05.c.i"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_05.c > CMakeFiles/01_Prednaska.dir/Zadanie_05.c.i
+
+CMakeFiles/01_Prednaska.dir/Zadanie_05.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/01_Prednaska.dir/Zadanie_05.c.s"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/01_Prednaska/Zadanie_05.c -o CMakeFiles/01_Prednaska.dir/Zadanie_05.c.s
+
 # Object files for target 01_Prednaska
 01_Prednaska_OBJECTS = \
 "CMakeFiles/01_Prednaska.dir/main.c.o" \
 "CMakeFiles/01_Prednaska.dir/01.c.o" \
 "CMakeFiles/01_Prednaska.dir/02.c.o" \
-"CMakeFiles/01_Prednaska.dir/Zadanie_01.c.o"
+"CMakeFiles/01_Prednaska.dir/Zadanie_01.c.o" \
+"CMakeFiles/01_Prednaska.dir/Zadanie_02.c.o" \
+"CMakeFiles/01_Prednaska.dir/Zadanie_03.c.o" \
+"CMakeFiles/01_Prednaska.dir/Zadanie_04.c.o" \
+"CMakeFiles/01_Prednaska.dir/Zadanie_05.c.o"
 
 # External object files for target 01_Prednaska
 01_Prednaska_EXTERNAL_OBJECTS =
@@ -139,9 +199,13 @@ CMakeFiles/01_Prednaska.dir/Zadanie_01.c.s: cmake_force
 01_Prednaska: CMakeFiles/01_Prednaska.dir/01.c.o
 01_Prednaska: CMakeFiles/01_Prednaska.dir/02.c.o
 01_Prednaska: CMakeFiles/01_Prednaska.dir/Zadanie_01.c.o
+01_Prednaska: CMakeFiles/01_Prednaska.dir/Zadanie_02.c.o
+01_Prednaska: CMakeFiles/01_Prednaska.dir/Zadanie_03.c.o
+01_Prednaska: CMakeFiles/01_Prednaska.dir/Zadanie_04.c.o
+01_Prednaska: CMakeFiles/01_Prednaska.dir/Zadanie_05.c.o
 01_Prednaska: CMakeFiles/01_Prednaska.dir/build.make
 01_Prednaska: CMakeFiles/01_Prednaska.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-01_Prednaska-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable 01_Prednaska"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-01_Prednaska-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable 01_Prednaska"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/01_Prednaska.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
