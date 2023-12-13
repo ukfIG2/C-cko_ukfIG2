@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-34b460ce1a80d9e10f7f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_Prenaska",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02_Prenaska::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_Prenaska-Debug-5319d78288059bf27a30.json",
+					"name" : "02_Prenaska",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/run/media/ivang/ERROR_DAMAGED/nextcloud/Lok\u00e1lny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-02_Prenaska-Desktop-Debug",
+		"source" : "/run/media/ivang/ERROR_DAMAGED/nextcloud/Lok\u00e1lny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/02_Prenaska"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

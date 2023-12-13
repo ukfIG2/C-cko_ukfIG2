@@ -81,12 +81,12 @@ clean: CMakeFiles/01_Prednaska.dir/clean
 CMakeFiles/01_Prednaska.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-01_Prednaska-Desktop-Debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target 01_Prednaska"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-01_Prednaska-Desktop-Debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target 01_Prednaska"
 .PHONY : CMakeFiles/01_Prednaska.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/01_Prednaska.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-01_Prednaska-Desktop-Debug/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-01_Prednaska-Desktop-Debug/CMakeFiles 11
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/01_Prednaska.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-01_Prednaska-Desktop-Debug/CMakeFiles 0
 .PHONY : CMakeFiles/01_Prednaska.dir/rule

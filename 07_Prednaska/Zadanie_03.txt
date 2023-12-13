@@ -1,0 +1,5 @@
+gcc -c stack.c -o stack.o
+
+gcc Zadanie_03.c stack.o -o Zadanie_03
+
+./Zadanie_03

@@ -1,0 +1,5 @@
+gcc -c graf.c -o graf.o
+
+gcc Zadanie_02.c graf.o -o Zadanie_02
+
+./graf_program

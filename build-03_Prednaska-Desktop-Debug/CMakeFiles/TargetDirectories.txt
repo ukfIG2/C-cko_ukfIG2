@@ -1,0 +1,7 @@
+/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-03_Prednaska-Desktop-Debug/CMakeFiles/03_Prednaska.dir
+/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-03_Prednaska-Desktop-Debug/CMakeFiles/edit_cache.dir
+/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-03_Prednaska-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-03_Prednaska-Desktop-Debug/CMakeFiles/list_install_components.dir
+/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-03_Prednaska-Desktop-Debug/CMakeFiles/install.dir
+/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-03_Prednaska-Desktop-Debug/CMakeFiles/install/local.dir
+/run/media/ivang/ERROR_DAMAGED/nextcloud/Lokálny/ivanm/Vysoka_Skola_UKF_2022-/2.Rocnik_1.Semester/C-cko/Programy/build-03_Prednaska-Desktop-Debug/CMakeFiles/install/strip.dir

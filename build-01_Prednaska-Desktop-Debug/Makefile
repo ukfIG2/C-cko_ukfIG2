@@ -222,6 +222,30 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/02.c.s
 .PHONY : 02.c.s
 
+Test.o: Test.c.o
+.PHONY : Test.o
+
+# target to build an object file
+Test.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Test.c.o
+.PHONY : Test.c.o
+
+Test.i: Test.c.i
+.PHONY : Test.i
+
+# target to preprocess a source file
+Test.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Test.c.i
+.PHONY : Test.c.i
+
+Test.s: Test.c.s
+.PHONY : Test.s
+
+# target to generate assembly for a file
+Test.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/Test.c.s
+.PHONY : Test.c.s
+
 Zadanie_01.o: Zadanie_01.c.o
 .PHONY : Zadanie_01.o
 
@@ -366,6 +390,30 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/main.c.s
 .PHONY : main.c.s
 
+smerniky.o: smerniky.c.o
+.PHONY : smerniky.o
+
+# target to build an object file
+smerniky.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/smerniky.c.o
+.PHONY : smerniky.c.o
+
+smerniky.i: smerniky.c.i
+.PHONY : smerniky.i
+
+# target to preprocess a source file
+smerniky.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/smerniky.c.i
+.PHONY : smerniky.c.i
+
+smerniky.s: smerniky.c.s
+.PHONY : smerniky.s
+
+# target to generate assembly for a file
+smerniky.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/01_Prednaska.dir/build.make CMakeFiles/01_Prednaska.dir/smerniky.c.s
+.PHONY : smerniky.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -385,6 +433,9 @@ help:
 	@echo "... 02.o"
 	@echo "... 02.i"
 	@echo "... 02.s"
+	@echo "... Test.o"
+	@echo "... Test.i"
+	@echo "... Test.s"
 	@echo "... Zadanie_01.o"
 	@echo "... Zadanie_01.i"
 	@echo "... Zadanie_01.s"
@@ -403,6 +454,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... smerniky.o"
+	@echo "... smerniky.i"
+	@echo "... smerniky.s"
 .PHONY : help
 
 

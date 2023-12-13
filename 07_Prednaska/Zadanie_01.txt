@@ -1,0 +1,5 @@
+gcc -c vektor.c -o vektor.o
+
+gcc Zadanie_01.c vektor.o -o Zadanie_01 -lm
+
+./Zadanie_01

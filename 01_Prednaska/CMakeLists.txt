@@ -10,6 +10,8 @@ add_executable(01_Prednaska main.c
     Zadanie_03.c
     Zadanie_04.c
     Zadanie_05.c
+    smerniky.c
+    Test.c
 
 
 
