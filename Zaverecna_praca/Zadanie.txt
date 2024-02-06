@@ -1,0 +1,45 @@
+Balíky
+
+Budete pracovať s poľom štruktúr reprezentujúcich balíky prepravované kuriérskou spoločnosťou.
+
+O každom balíku by sme mohli uchovávať veľa rôznych informácií, nás bude zaujímať len:
+
+    adresát (reťazec),
+    miesto doručenia (reťazec)
+    hmotnosť (desatinné číslo),
+    či je poistený (0 alebo 1)
+
+Údaje o balíkoch sa nachádzajú vo vstupnom  textovom súbore. V prvom riadku je počet balíkov nasledovaný príslušným počtom riadkov s informáciami o balíkoch, napr.:
+
+5
+Jan Nitra 0.5 0
+Martin Bratislava 10 0
+Jozef Nitra 2.5 1
+Marta Praha 1.5 1
+Peter Zilina 3 0
+
+Úlohy:
+
+1. Definujte údajový typ TBalik. Dynamicky alokované pole s prvkami typu TBalik naplňte údajmi zo súboru. Vypíšte načítané dáta na obrazovku. (5 b)
+hotovo
+
+2. Pomocou funkcie qsort() umožnite údaje usporadúvať podľa 2 kritérií - podľa hmotnosti balíka a podľa poplatku za prepravu (účtuje sa prepravné 3 Eurá + 1,50 Eur navyše v prípade poistenia) . (5 b)
+hotovo
+
+3. Zistite súčet hmotností tých balíkov, ktoré sú určené zadanému adresátovi. Využite funkciu bsearch() a smerníkovú aritmetiku. (5 b)
+hotovo
+
+4. Implementujte funkciu, ktorá do výstupného textového súboru zapíše hmotnosti tých balíkov, ktoré majú byť doručené do zadaného cieľového miesta. Funkcia nech má 3 parametre - pole balíkov, názov výstupného súboru a miesto.
+hotovo
+
+V hlavnom programe otestujte funkčnosť riešenia jednotlivých čiastkových úloh.  Pred koncom programu uvoľnite alokované pole z pamäti.
+
+Každú časť riešenia vyznačte komentárom, napr.:
+
+// Uloha 1
+
+// Uloha 2 
+
+atď.
+
+alebo naprogramujte riešenia čiastkových úloh v osobitných funkciách uloha1(), uloha2() atď.

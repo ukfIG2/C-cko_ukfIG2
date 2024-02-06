@@ -1,0 +1,9 @@
+8
+Jan Nitra 0.5 0
+Martin Bratislava 10 0
+Jozef Nitra 2.5 1
+Marta Praha 1.5 1
+Peter Zilina 3 0
+Martin Bratislava 3.40 0
+Jozef Nitra 3.4 0
+Jozef Nitra 200 1

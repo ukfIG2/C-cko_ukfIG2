@@ -1,0 +1,4 @@
+Adresat: Jan, Hmotnost: 0.50
+Adresat: Jozef, Hmotnost: 2.50
+Adresat: Jozef, Hmotnost: 3.40
+Adresat: Jozef, Hmotnost: 200.00
